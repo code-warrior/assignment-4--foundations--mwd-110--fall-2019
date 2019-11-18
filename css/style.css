@@ -1,3 +1,18 @@
+body {
+  background-color: #000;
+  color: #fff;
+}
+
 h1 {
   font: 40px/40px 'Libre Franklin', sans-serif;
+}
+
+h2 {
+
+}
+
+ol {
+  margin-left: 20px;
+  background: #fff;
+  color: #000;
 }
