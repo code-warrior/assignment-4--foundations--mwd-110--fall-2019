@@ -1,18 +1,32 @@
 body {
   background-color: #000;
   color: #fff;
+  font: 16px 'Montserrat', sans-serif;
 }
 
 h1 {
-  font: 40px/40px 'Libre Franklin', sans-serif;
+  font: 125px 'Libre Franklin', sans-serif;
+  text-align: center;
+  letter-spacing: -11px;
 }
 
 h2 {
-
 }
 
 ol {
-  margin-left: 20px;
-  background: #fff;
+  margin: auto;
+  width: 600px;
+  background: #ccc;
+  color: #ff329c;
+  padding: 20px;
+}
+
+li {
+  display: block;
+  font-size: 24px;
+}
+
+.song {
+  background-color: #ccc;
   color: #000;
 }
