@@ -25,6 +25,21 @@ h2 {
   margin-left: 5px;
 }
 
+#license{
+  margin-left: 5px;
+  font-size: 14px;
+  width: 590px;
+  color: #ccc;
+  background-color: #333;
+}
+
+a {
+  color: #fff;
+}
+a:visited {
+  color: #ff329c;
+}
+
 ol {
   margin-top: 120px;
   margin-left: 610px;
