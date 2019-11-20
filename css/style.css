@@ -18,3 +18,10 @@ h2 {
    padding: 25px 0 55px 14px;
    font-family: 'Stardos Stencil', cursive;
 }
+
+h3 {
+   text-align: center;
+   padding: 5px 0 8px 13px;
+   font-family: 'Bree Serif', serif;
+   font-size: 24px;
+}
