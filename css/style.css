@@ -11,6 +11,7 @@ h1 {
   font: 900 125px/100px 'Libre Franklin', sans-serif;
   text-align: center;
   letter-spacing: -11px;
+  text-transform: uppercase;
 }
 
 h2 {
