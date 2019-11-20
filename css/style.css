@@ -1,8 +1,9 @@
 h3 {
-   font-family: Electrolize, sans-serif;
+   font-family: 'Share Tech Mono', monospace;
    color: #fcfffa;
    background-color: #0f0606;
    text-align: center;
+   font-size: 1.3rem;
    padding: 8px;
 }
 
@@ -36,18 +37,45 @@ a:hover {
 
 div {
    background-color: #0f0606;
-   width: 500px;
-   height: 200px;
+   text-align: center;
+   display: inline-block;
+   padding: 10px;
+   line-height: 18px;
+   width: inherit;
 }
 
-div:nth-child(2)
-{
-   width: 100vh;
-   height: 100vw;
+.first {
+   height: inherit;
+   padding: 10px 100px;
+}
+
+.second {
+   height: inherit;
+   padding: 10px 100px;
+}
+
+.third {
+   height: inherit;
+   padding: 10px 100px 20px;
 }
 
 nav ol li {
    background-color: #0f0606;
    color: #fcfffa;
    text-align: center;
+   font-size: 1.1rem;
+   padding: 4px;
+   font-family: 'Share Tech Mono', monospace;
+}
+
+.firstpic {
+   padding: 20px 1px 10px;
+   width: 50vw;
+   height: 60vh;
+}
+
+.sndpic {
+   padding: 20px 1px;
+   width: 50vw;
+   height: 60vh;
 }
