@@ -1,0 +1,53 @@
+h3 {
+   font-family: Electrolize, sans-serif;
+   color: #fcfffa;
+   background-color: #0f0606;
+   text-align: center;
+   padding: 8px;
+}
+
+h1,
+h2 {
+   font-family: Electrolize, sans-serif;
+   background-color: #b0b3af;
+   text-align: center;
+   padding: 10px;
+   font-size: 1.5rem;
+}
+
+p {
+   font-family: 'Share Tech Mono', monospace;
+   color: #fcfffa;
+}
+
+body {
+   background-color: #b0b3af;
+   margin: 4px;
+}
+
+a {
+   text-decoration: none;
+   color: #ed6d64;
+}
+
+a:hover {
+   background-color: lightgrey;
+}
+
+div {
+   background-color: #0f0606;
+   width: 500px;
+   height: 200px;
+}
+
+div:nth-child(2)
+{
+   width: 100vh;
+   height: 100vw;
+}
+
+nav ol li {
+   background-color: #0f0606;
+   color: #fcfffa;
+   text-align: center;
+}
