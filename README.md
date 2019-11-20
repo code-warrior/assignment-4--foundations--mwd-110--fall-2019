@@ -27,8 +27,10 @@ With the content marked up properly, add styling to the page using CSS. There’
 06. `content/content--public-enemy.txt`
 07. `content/content--ramones.txt`
 08. `css/reset.css`
-09. `css/main.css`
-10. `img/`
+09. `css/style.css`
+10. `index.html`
+11. `img/`
+
 
 ## Rules
 * Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
